@@ -1152,7 +1152,7 @@ h2.hero-title{font-size:27px}
 <b:template-skin><![CDATA[
 html,body#layout #outer-wrapper,body#layout .row{width:auto;padding:0}
 body#layout{position:relative;width:910px;background-color:#f9f9f9;padding:95px 5px 0;margin:0}
-body#layout:before{content:'Freebify Dark by Zxce3 - v1.0.0';position:absolute;top:0;left:5px;right:5px;height:95px;font-family:Roboto,sans-serif;font-size:23px;color:#1f2024;line-height:95px;text-align:center}
+body#layout:before{content:'Freebify Dark by Zxce3 - v1.2';position:absolute;top:0;left:5px;right:5px;height:95px;font-family:Roboto,sans-serif;font-size:23px;color:#1f2024;line-height:95px;text-align:center}
 body#layout div.section{display:block;background-color:#f1f1f1!important;margin:0 5px 10px!important;padding:16px 16px 18px!important;border-color:#e5e5e5}
 body#layout .no-items.section{display:block}
 body#layout .section h4{font-size:14px;color:#1f2024;text-transform:uppercase;margin:0}
